@@ -175,10 +175,10 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Copyright © 2023 <a 
-      class="text-primary" href="https://github.com/Shubham937Raval"
+      class="text-primary" href="https://github.com/Shahnehi06"
       target="_blank"
       rel="noreferrer"
-    >Shubham Raval</a>`,
+    >Shah Nehi</a>`,
   enablePWA: true,
 };
 
