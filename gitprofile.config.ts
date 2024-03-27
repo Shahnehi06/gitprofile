@@ -67,7 +67,7 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: ',
+      company: '',
       position: '',
       from: '',
       to: '',
