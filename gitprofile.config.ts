@@ -36,11 +36,11 @@ const CONFIG = {
     imageURL: '',
   },
    social: {
-    linkedin: 'shubham11r',
-    twitter: '@shubham_raval_',
+    linkedin: '',
+    twitter: '',
     mastodon: '',
-    facebook: 'Shubham Raval',
-    instagram: 'shubhamraval2002',
+    facebook: '',
+    instagram: '_shahnehi_06',
     dribbble: '',
     behance: '',
     medium: '',
@@ -51,31 +51,27 @@ const CONFIG = {
     telegram: '',
     website: '',
     phone: '',
-    email: 'shubhamkraval@gmail.com',
+    email: 'shahnehi06@gmail.com',
   },
     resume: {
     fileUrl:
       '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-'C','C++','Java','Python','PHP',
-    'Laravel',
+    'C',
+    'Java',
     'JavaScript',
     'React.js',
-    'Node.js',
     'MySQL',
-    'PostgreSQL',
-    'Git',
-'MUI', 
-    'CSS', 
+    'HTML'
   ],
   experiences: [
     {
-      company: 'Freelance.com',
-      position: 'Freelancer',
-      from: 'September 2022',
-      to: 'March 2023',
-      companyLink: 'https://example.com',
+      company: ',
+      position: '',
+      from: '',
+      to: '',
+      companyLink: '',
     },
     
   ],
@@ -89,9 +85,9 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Dharmsinh Desai University',
+      institution: 'Narnarayan Shastri Institute Of Technology',
       degree: 'B.Tech in Computer Engineering',
-      from: '2019',
+      from: '2020',
       to: '2024',
     }
   ],
@@ -174,7 +170,7 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Copyright © 2023 <a 
+  footer: `Copyright © 2024 <a 
       class="text-primary" href="https://github.com/Shahnehi06"
       target="_blank"
       rel="noreferrer"
